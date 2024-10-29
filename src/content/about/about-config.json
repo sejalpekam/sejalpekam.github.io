@@ -1,0 +1,109 @@
+{
+    "educations": [
+        {
+            "id": "edu-1",
+            "school": "University of Illinois at Urbana-Champaign",
+            "degree": "Master of Computer Science",
+            "duration": "Aug 2023 - Dec 2024",
+            "content": [
+                "GPA: 3.88/4",
+                "Courses: Software Engineering, Distributed Systems, Operating Systems, Advanced Algorithms, Experience Design"
+            ],
+            "logo": "/assets/logos/uiuc_logo.png"
+        },
+        {
+            "id": "edu-2",
+            "school": "Pune Institute of Computer Technology, University of Pune",
+            "degree": "Bachelor of Engineering in Computer Engineering",
+            "duration": "Aug 2019 - Jul 2023",
+            "content": [
+                "GPA: 9.29/10",
+                "Courses: Data Structures, OOP, Algorithms, Software Engineering, Computer Networks, Artificial Intelligence"
+            ],
+            "logo": "/assets/logos/pict_logo.jpg"
+        }
+    ],
+    "experiences": [
+        {
+            "id": "exp-1",
+            "company": "AGCO Corporation",
+            "position": "Advanced Analytics and Data Engineering Intern",
+            "duration": "Jun 2024 - Present",
+            "description": [
+                "Developed an ETL tool to automate KPI metric calculations, reducing manual effort by 80% and saving approximately 15 hours per month.",
+                "Extracted data from Azure DevOps Boards, transformed it, and loaded it into Redshift by building a Python script, resulting in a 25% faster data retrieval process.",
+                "Collaborated with stakeholders to visualize data on Tableau dashboards, which improved report generation efficiency by 30% and increased data accuracy for business analytics."
+            ],
+            "keySkills": ["Python", "ETL", "Azure DevOps", "Redshift", "Tableau"],
+            "companyWebsite": "https://www.agcocorp.com",
+            "companyLogo": "/assets/logos/agco_logo.jpeg"
+        },
+        {
+            "id": "exp-2",
+            "company": "Carle Illinois College of Medicine",
+            "position": "Frontend Developer Intern",
+            "duration": "Oct 2023 - Dec 2023",
+            "description": [
+                "Spearheaded the UX design for RxMind App by transforming ideas into detailed wireframes in Figma, shaping a user-focused visual style and layout.",
+                "Transformed wireframes into interactive UI components using Next.js, improving interface responsiveness and enhancing user engagement.",
+                "Elevated app security by implementing AWS Amplify for user authentication, leading to greater user confidence and data protection."
+            ],
+            "keySkills": ["Figma", "Next.js", "AWS Amplify", "UI/UX Design"],
+            "companyWebsite": "https://medicine.illinois.edu",
+            "companyLogo": "/assets/logos/carle_logo.jpeg"
+        },
+        {
+            "id": "exp-3",
+            "company": "Persistent Systems Limited",
+            "position": "Software Developer Intern",
+            "duration": "Jun 2022 - Aug 2022",
+            "description": [
+                "Enhanced a hotdesking application by implementing computer vision and OCR techniques to recognize labels in floor layout plans for Persistent offices.",
+                "Trained a custom model to accurately identify and mark seat locations within office floor layouts, achieving an 85% accuracy rate."
+            ],
+            "keySkills": ["Computer Vision", "OCR", "Machine Learning"],
+            "companyWebsite": "https://www.persistent.com",
+            "companyLogo": "/assets/logos/persistent_logo.png"
+        },
+        {
+            "id": "exp-4",
+            "company": "Amazatic Solutions LLP",
+            "position": "Software Developer Intern",
+            "duration": "Jan 2022 - Mar 2022",
+            "description": [
+                "Contributed to the development of the Peoples' Biodiversity Registers Application for the Maharashtra State Biodiversity Board, focusing on bio-resource documentation, landscape data, and community demographics.",
+                "Digitized biodiversity reporting processes for over 10 villages, removing paperwork and reducing processing time by 70%.",
+                "Integrated geotagging capabilities to improve image capture accuracy, increasing data precision by 80%."
+            ],
+            "keySkills": ["Software Development","Flutter", "Firebase", "Geotagging", "Data Digitization"],
+            "companyWebsite": "https://www.amazatic.com",
+            "companyLogo": "/assets/logos/amazatic_logo.jpeg"
+        }
+    
+    ],
+    "skills": [
+        {
+            "title": "Programming",
+            "tools": [
+                "C++",
+                "Python",
+                "Java",
+                "SQL",
+                "NoSQL",
+                "TypeScript",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Dart"
+            ]
+        },
+        {
+            "title": "Frameworks & Tools",
+            "tools": ["Flutter", "Next.js", "React", "Docker", "Figma", "Git", "Tableau"]
+        },
+        {
+            "title": "Databases & Cloud Services",
+            "tools": ["AWS Services", "Redshift", "PostgreSQL", "MySQL", "MongoDB", "Firebase", "Firestore"]
+        }
+    ]
+}

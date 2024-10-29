@@ -1,0 +1,30 @@
+{
+    "name": "Sejal Pekam",
+    "logoType": {
+        "mobile": "SP",
+        "desktop": "Sejal Pekam"
+    },
+    "mainPicture": "/assets/SP.jpg",
+    "mainPictureJPG": "/assets/SP.jpg",
+    "pronunciation": "/s-ai-j-uh-l/",
+    "audioFile": "/assets/name-pro.mp3",
+    "cssVarPrefix": "sp",
+    "email": "spekam2@illinois.edu",
+    "linkedin": "https://www.linkedin.com/in/sejal-pekam/",
+    "github": "https://github.com/sejalpekam",
+    "resume": "https://drive.google.com/file/d/15fR-adfbeQdobKOEkZLGrBTW_gE9ijKl/view?usp=sharing",
+    "socials": [
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/in/sejal-pekam/"
+        },
+        {
+            "type": "github",
+            "link": "https://github.com/sejalpekam"
+        },
+        {
+            "type": "mail",
+            "link": "mailto:spekam2@illinois.edu"
+        }
+    ]
+}

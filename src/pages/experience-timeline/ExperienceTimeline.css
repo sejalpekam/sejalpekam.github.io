@@ -1,0 +1,8 @@
+/* ExperienceTimeline.css */
+.vertical-timeline.light-mode::before {
+    background-color: #1a202c; /* Light mode line color */
+}
+
+.vertical-timeline.dark-mode::before {
+    background-color: #ffffff; /* Dark mode line color */
+}

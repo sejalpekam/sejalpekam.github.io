@@ -1,0 +1,26 @@
+[
+    { 
+        "id": "other-project-recipe-batao", 
+        "title": "Recipe Batao App", 
+        "year": "2023", 
+        "location": "PICT", 
+        "demo": "https://drive.google.com/file/d/1SDnA13jUDNwQBv4_DbgzudecqwXNolNY/view?usp=sharing", 
+        "github": "https://github.com/pinakmapari/RecipeBatao", 
+        "tags": ["Flutter", "Dart", "Firebase", "API Integration", "UI/UX Design"], 
+        "description": "A dynamic recipe recommendation app built with Flutter, offering personalized recipe suggestions based on item expiry tracking, and aimed at reducing food waste.", 
+        "image": "/assets/other-projects/Recipe_batao.png", 
+        "jpg": "/assets/other-projects/Recipe_batao.png" 
+    },
+    {
+        "id": "other-project-sig-training-app",
+        "title": "SIG and Training Conduction App",
+        "year": "2023",
+        "location": "Pune, India",
+        "demo": "https://drive.google.com/file/d/1TLlLsc6kg3FlQtTCIT9RQoh1dN6SABhw/view?usp=sharing",
+        "github": "https://github.com/Akash-213/xenathon-sigs-platform",
+        "tags": ["Flutter", "Firebase", "Firestore", "Google Auth"],
+        "description": "An innovative platform designed to promote skill sharing and community learning through Special Interest Groups (SIGs) and workshops. Built using Flutter, Firebase, and Firestore, the app allows users to register via Google, post skill-based learning sessions, and view upcoming events in an explore tab. When interest in an event surpasses the expected count, the event is auto-confirmed and moves to the Schedule tab. Participants can seamlessly join confirmed sessions through an integrated 'Join Now' feature, creating an engaging and organized experience for learning and knowledge exchange.",
+        "image": "/assets/other-projects/sig.png",
+        "jpg": "/assets/other-projects/sig.png"
+    }
+]

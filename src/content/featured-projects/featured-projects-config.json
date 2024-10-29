@@ -1,0 +1,40 @@
+[
+    {
+	    "id": "featured-project-bug-localization",
+	    "title": "Evaluating Testing & Debugging Tools on Real-world Bugs",
+	    "year": "Jan 2024 - May 2024",
+	    "location": " UIUC",
+	    "demo": "https://drive.google.com/file/d/1N_F4hQKEZQEIS9F0jPsnOy6tOTYiANtU/view?usp=sharing",
+	    "github": "https://github.com/sejalpekam/Automated-Bug-Localization-Techniques-Evaluation",
+	    "tags": ["Python", "Automated Testing", "Bug Localization", "Data Visualization"],
+	   "description": "This project involved analyzing automated bug localization techniques using Randoop and EvoSuite across various open-source datasets, including Defects4J and BugSwarm. A precise bug localization method was developed to streamline the identification of faulty code segments, significantly reducing debugging time. Test cases were generated and key insights visualized to enhance software testing strategies, providing valuable recommendations for improving debugging processes in large-scale systems.", 
+	    "image": "/assets/featured-projects/BugEvaluation.png",
+	    "jpg": "/assets/featured-projects/BugEvaluation.png"
+	},
+
+    {
+        "id": "featured-project-tripool",
+        "title": "Tripool",
+        "year": "Aug 2023 - Dec 2023",
+        "location": " UIUC",
+        "demo": "",
+        "github": "https://github.com/sejalpekam/Tripool-App",
+        "tags": ["Flutter", "Firebase", "UI/UX Design", "Mobile App"],
+        "description": "A mobile application to connect people for carpooling, hiking, and social events, featuring an explore section with filters for event types and options for managing group memberships.",
+        "image": "/assets/featured-projects/tripool.png",
+        "jpg": "/assets/featured-projects/tripool.png"
+    },
+    {
+        "id": "featured-project-ocular-disease-recognition",
+        "title": "Recognition of Ocular Diseases",
+        "year": "Aug 2022- May 2023",
+        "location": " PICT",
+        "demo": "https://drive.google.com/file/d/1wOrz-vWiUUdbVeyUBhAUXnmi7OYmd6Hk/view?usp=sharing",
+        "github": "https://github.com/sejalpekam/Recognition-of-Ocular-Diseases",
+        "tags": ["Python", "Deep Learning", "CNN", "GAN"],
+        "description": "Developed an intelligent recognition system for ocular diseases using deep learning, achieving multi-label, multi-class classification with a custom CNN architecture and enhanced dataset through GANs, reaching a 90.63% accuracy rate.",
+        "image": "/assets/featured-projects/ocular_diseases.webp",
+        "jpg": "/assets/featured-projects/ocular_diseases.png"
+    }
+	
+]
